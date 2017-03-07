@@ -1,0 +1,1 @@
+https://developer.leapmotion.com/documentation/cpp/devguide/Project_Setup.html#windows-setting-up-a-c-project-in-visual-studio
